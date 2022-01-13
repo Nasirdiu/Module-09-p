@@ -28,6 +28,7 @@ nav{
 .logo img{
     width: 40.42px;
      height: 51px;
+     border-radius: 50px;
 }
 .manu-bar >ul{
     display: flex;
